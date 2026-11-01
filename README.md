@@ -32,3 +32,4 @@ A modern, responsive, client-side Sales Analytics Dashboard built with vanilla H
 ## Quick Start
 
 Simply open `index.html` in any modern web browser or host it with any static web server (such as GitHub Pages).
+
